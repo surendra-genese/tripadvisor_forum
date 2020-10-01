@@ -6,3 +6,7 @@
         
 #### CSV SCHEMA
     Forum,Topic,Replies,Last Post,Topic Link
+
+#### Python Dependencies
+* requests
+* lxml
